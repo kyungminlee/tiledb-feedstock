@@ -28,13 +28,13 @@ requirements:
     - bzip2
     - zstd
     - lz4-c
-    - tbb-devel 2018.0.5
+    - tbb-devel 2019.1
   run:
     - zlib
     - bzip2
     - zstd
     - lz4-c
-    - tbb 2018.0.5
+    - tbb 2019.1
 
 test:
   commands:
